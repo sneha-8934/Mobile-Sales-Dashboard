@@ -1,0 +1,3 @@
+Designed and developed an interactive Power BI dashboard for mobile sales analysis, showcasing metrics like total sales, average price, and ratings across various dimensions (time, city, brand, and payment method).
+Analyzed and visualized over 769.2M in total sales data and 19K total quantities sold, delivering insights on trends, payment distributions, and performance comparisons for the same period last year.
+Completed the project within 30 days as part of a Power BI masterclass led by Satish Dhawale Sir, demonstrating proficiency in data visualization, DAX calculations, and dashboard creation.
